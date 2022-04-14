@@ -6,7 +6,7 @@
 
 | Phase         | Status        | Team            |
 | ------------- | ------------- |-----------------|
-| One           | COMPLETE.     |  EMERALD CITY   | 
+| One           | COMPLETE      |  EMERALD CITY   | 
 | Two           | Incomplete    |   N/A           | 
 | Three         | Incomplete    |   N/A           | 
 | Four          | Incomplete    |   N/A           | 
