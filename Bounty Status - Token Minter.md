@@ -1,12 +1,12 @@
 
 # Bounty Status
-- Not Claimed
+- CLAIMED
 
 # Milestone Status
 
 | Phase         | Status        | Team            |
 | ------------- | ------------- |-----------------|
-| One           | Incomplete    |   N/A           | 
+| One           | COMPLETE.     |  EMERALD CITY   | 
 | Two           | Incomplete    |   N/A           | 
 | Three         | Incomplete    |   N/A           | 
 | Four          | Incomplete    |   N/A           | 
