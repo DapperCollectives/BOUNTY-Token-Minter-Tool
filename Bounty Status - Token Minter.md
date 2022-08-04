@@ -6,7 +6,7 @@
 | Phase | Status     | Team         | Milestone start date | Milestone due date | Milestone met date |
 |-------|------------|--------------|----------------------|--------------------|--------------------|
 | One   | COMPLETE   | EMERALD CITY | Mar 29               | Apr 15             | Apr 15             |
-| Two   | Incomplete |              |                      |                    |                    |
+| Two   | Incomplete | EMERALD CITY | May 27               | Jun 27             |                    |
 | Three | Incomplete |              |                      |                    |                    |
 | Four  | Incomplete |              |                      |                    |                    |
 
